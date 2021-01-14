@@ -22,3 +22,14 @@ h3{
   margin: auto;
   width: 66%;
 }
+
+p {
+  text-align: justify;
+}
+
+.word {
+  text-justify: inter-word;
+}
+.quote {
+  text-align: center;
+}
