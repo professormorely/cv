@@ -1,3 +1,7 @@
+.image {
+  border-radius:50%;
+}
+
 body {
   background-color: #f6f5f5;
 }
@@ -27,9 +31,31 @@ p {
   text-align: justify;
 }
 
+.head {
+  text-align: center;
+  text-decoration: underline;
+}
+
 .word {
   text-justify: inter-word;
 }
 .quote {
   text-align: center;
+}
+
+.datehead {
+  text-align: right;
+  text-decoration: underline;
+}
+.date {
+  text-align: right;
+}
+
+.job {
+  text-align: center;
+}
+
+.jobhead {
+  text-align: center;
+  text-decoration: underline;
 }
