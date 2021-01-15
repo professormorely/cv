@@ -21,7 +21,6 @@ h1{
 }
 h3{
   color: #070d59;
-  text-align: center;
 }
 .center {
   margin: auto;
@@ -34,6 +33,7 @@ p {
 
 .head {
   text-decoration: underline;
+  text-align: center;
 }
 
 .word {
