@@ -32,8 +32,8 @@ p {
 }
 
 .head {
-  text-decoration: underline;
   text-align: center;
+  text-decoration: underline;
 }
 
 .word {
@@ -47,8 +47,19 @@ p {
   text-align: right;
   text-decoration: underline;
 }
+
 .date {
   text-align: right;
+}
+
+.periodhead {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.period {
+  text-align: left;
+  text-decoration: underline;
 }
 
 .job {
@@ -58,4 +69,13 @@ p {
 .jobhead {
   text-align: center;
   text-decoration: underline;
+}
+
+.tag {
+  text-align: left;
+}
+
+.table {
+  margin: auto;
+  width: auto;
 }
